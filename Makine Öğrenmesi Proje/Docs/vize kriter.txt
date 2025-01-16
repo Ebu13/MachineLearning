@@ -1,0 +1,29 @@
+Vize projesi için yapılması gereken dokumantasyon icerigi
+-Projenin Amaci
+-Projenin nasil yapıldigi(giris)
+Hangi yontemleri kullandigin kullanilan teknolojiler sonuclar varsa hangi akademik 
+calismadan ornek alindi
+-Materyal ve metot (Yöntem) basari olcutlerine yer verilmeli
+-elde edilen deneysel calismalar
+-r2 RMSE MAE eklenmeli
+
+
+
+R2 rmse yi kullanılan başarım ölçütleri de materyal metot bölümüne eklenecek.
+
+Bu E-Posta Doç. Dr. ÖMER FARUK ALÇİN tarafından gönderildi
+
+Ders : YZL457-2021(1) (S)Makine Öğrenmesi [2024-2025 Güz] 
+[Mühendislik Fakültesi - Yazılım Mühendisliği Bölümü - 
+Yazılım Mühendisliği] (Son Mesaj Gönderim Tarihi:06.11.2024 19:50)
+
+Vize projesi son teslim tarihi 18/12/2024'dür. 
+Bu tarih sonra yapılan gösterimler dikkate alınmayacaktır.
+Vize projesinin raporu için yapılması gereken dokümantasyon içeriği aşağıda verilmiştir. 
+Projesinin raporu çıktınız Final sınavında kağıdınızla sınav esnasında birlikte testim edilmelidir.
+Daha sonra teslim edilen raporlar değerlendirmeye alınmayacaktır.
+-Projenin Amacı
+-Projenin nasıl yapıldığı (giriş)
+-Materyal ve metot (Yöntem) kullanılan yöntemlerin ve teknolojilerin anlatımı na yer verilmelidir. 
+(Materyal ve metot (Yöntem) basari ölçütlerine yer verilmeli)
+-Deneysel çalışmalar elde edilen sonuçları içermelidir.

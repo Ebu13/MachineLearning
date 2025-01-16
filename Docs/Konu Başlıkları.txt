@@ -1,0 +1,56 @@
+
+1. Makine Öğrenmesine Giriş
+Makine Öğrenmesinin Temel Kavramları
+Öğrenme türleri: Denetimli öğrenme, denetimsiz öğrenme, pekiştirmeli öğrenme.
+Model, parametre, ve hiperparametre kavramları.
+Eğitim, doğrulama, ve test süreçlerinin genel açıklaması.
+2. Veri Kümesi ve Bölümlendirme
+Veri Kümesinin Hazırlanması
+Eğitim, doğrulama, ve test kümelerinin oluşturulması (%70-%15-%15 kuralı).
+Çapraz doğrulama yöntemleri (k-kat doğrulama).
+Ezberleme Problemi ve Çözümü
+Aşırı öğrenme (overfitting) ve eksik öğrenme (underfitting).
+Erken durdurma, dropout, ve regularization yöntemleri.
+3. Performans Değerlendirme
+Karışıklık Matrisi (Confusion Matrix)
+Doğru pozitif, yanlış pozitif, doğru negatif, yanlış negatif kavramları.
+Pozitif ve negatif sınıfların analizi.
+Değerlendirme Metrikleri
+Doğruluk (Accuracy), Hassasiyet (Precision), Duyarlılık (Sensitivity/Recall), Özgünlük (Specificity).
+F1-Skoru ve ROC eğrisi analizi.
+Yanlış pozitif oranı (FPR).
+4. Regresyon Modelleri
+Lineer Regresyon
+En küçük kareler yöntemi (Least Square Method).
+Aşırı, eksik ve tam belirlenmiş denklem sistemleri.
+Python ve MATLAB ile uygulamalar.
+Doğrusal Olmayan Regresyon Modelleri
+Polinom regresyon ve diğer doğrusal olmayan modeller.
+Gerçek veriyle model oluşturma ve hata analizi.
+5. Sınıflandırma Algoritmaları
+En Yakın Komşu (k-Nearest Neighbors, kNN)
+Çalışma prensibi: K komşuların sınıfına göre sınıflama.
+Uygulama örnekleri ve performans değerlendirme.
+Hiyerarşik Olmayan Kümeleme
+K-Means Algoritması
+Küme sayısının belirlenmesi (k değeri seçimi).
+Kümeleme algoritmasının iteratif çözüm yöntemi.
+KNN ve K-Means'ın karşılaştırması.
+Uygulama örnekleri.
+6. Optimizasyon Algoritmaları
+Gradyan İniş Yöntemi
+Matematiksel temeller ve iteratif güncelleme.
+Öğrenme katsayısının (η) etkileri.
+MATLAB ve Python uygulamaları.
+Fonksiyonların Minimum Noktasını Bulma
+Gradyan iniş algoritmasının optimizasyon problemlerine uygulanması.
+7. Kümeleme Algoritmaları
+Hiyerarşik Olmayan Kümeleme
+En yakın komşu yöntemleri.
+K-Means ve türevleri (örneğin, Mini-Batch K-Means).
+Kümeleme performans analizi.
+8. Model Performansını Artırma Teknikleri
+Hiperparametre Optimizasyonu
+Grid Search ve Random Search yöntemleri.
+Veri Önişleme
+Normalizasyon, standartlaştırma, ve eksik veri analizi.
